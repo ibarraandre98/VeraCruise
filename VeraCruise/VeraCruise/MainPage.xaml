@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:VeraCruise"
+             x:Class="VeraCruise.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Te la creíste we!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+               BackgroundColor="red"/>
+
+        <Label 
+            Text="Te la creíste we"
+            BackgroundColor="red"
+            TextColor="white"
+            ></Label>
+    </StackLayout>
+
+</ContentPage>
